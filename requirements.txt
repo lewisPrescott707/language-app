@@ -5,7 +5,7 @@ attrs==19.1.0
 aws-sam-translator==1.14.0
 boto3==1.9.239
 botocore==1.12.239
-certifi==2019.9.11
+certifi==2022.12.7
 cfgv==2.0.1
 cfn-lint==0.24.3
 chardet==3.0.4
